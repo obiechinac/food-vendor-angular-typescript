@@ -8,6 +8,15 @@
     /* background-color: #e72929; */
 
 }
+@media (max-width: 767px) {
+    .container {
+      font-size: 1rem;
+      margin: 5rem 0 0 0 ;
+/*      
+      height: calc(100vh - 50px); */
+    }
+
+}
 
 ul{
     display: flex;
