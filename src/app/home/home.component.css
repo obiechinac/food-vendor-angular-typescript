@@ -1,3 +1,5 @@
+
+
 ul{
     display: flex;
     justify-content: center;
@@ -15,7 +17,7 @@ ul li a{
     margin: 0.5rem;
     display: flex;
     flex-direction: column;
-    overflow: hidden;
+    /* overflow: scroll; */
     color: #e72929;
 }
 li a:hover{
